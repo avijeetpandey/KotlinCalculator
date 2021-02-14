@@ -200,7 +200,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="CLR"
-            android:onClick="onDigit"
+            android:onClick="onClear"
             />
 
         <Button
@@ -233,5 +233,5 @@
             android:onClick="onDigit"
             android:text="=" />
     </LinearLayout>
-    
+
 </LinearLayout>
