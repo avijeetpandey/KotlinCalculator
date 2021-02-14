@@ -1,5 +1,7 @@
 # KotlinCalculator :tada: :rocket:
-Simple calculator app built using kotlin
+Simple calculator app built using kotlin , wherin user can perform one operation at a time ( for now )
+
+**To use the app build it using android studio , or you can download from release section of this repo**
 
 ## Technologies used :muscle:
 - Core Android
